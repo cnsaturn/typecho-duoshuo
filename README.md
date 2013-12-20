@@ -20,7 +20,8 @@ Typecho 多说插件 V1.0.0 [issues](https://github.com/rakiy/typecho-duoshuo/is
  
 ## 特别感谢 ##
  
-  燕  儿		<http://www.y2sky.com>
-  冰  剑		<http://www.binjoo.net>
-  西西妹		<http://mui.me>
-  TE开发小组	<http://github.com/typecho-fans/>
+  燕  儿		<http://www.y2sky.com>   
+  冰  剑		<http://www.binjoo.net>   
+  西西妹		<http://mui.me>   
+  TE开发小组	<http://github.com/typecho-fans/>   
+  机油群		[QQ:40412938](http://shang.qq.com/wpa/qunwpa?idkey=a5a8afedf099e18ddf9b530db9217251e39001d52aace42888bf470d9b6cb86a "现在好像叫肥皂群")
