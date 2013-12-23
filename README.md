@@ -2,7 +2,7 @@
 
 Typecho 多说插件 V1.1.0 [issues](https://github.com/rakiy/typecho-duoshuo/issues)   
 
-最后更新: 2013-12-13
+最后更新: 2013-12-22
 
 ## V1.1.0更新说明 ##
 
